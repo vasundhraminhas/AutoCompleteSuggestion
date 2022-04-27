@@ -1,0 +1,22 @@
+input {
+    height: 40px;
+    width: 40%;
+    font-size: 18px;
+}
+
+.search-bar {
+    /* display: flex;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+.search-bar .search-icon {
+    text-align: center;
+}
+
+.search-icon i {
+    margin-left: 20px;
+}
